@@ -46,9 +46,7 @@ function home() {
         </div>
         </Link>
         </div>
-        {/* <div className='flex-item'>
-          <h2><Link to="/Connection">Personalizations</Link></h2>
-        </div> */}
+        
         <div className="border">
         <Link to="/display">
           <div className='flex-item'>

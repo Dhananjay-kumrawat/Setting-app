@@ -66,7 +66,7 @@ align-items: baseline;
 .column-layout {
   display: flex;
   flex-direction: row;
-  justify-content: flex-start; /* Adjust space-evenly to decrease the space */
+  justify-content: flex-start; 
 }
 .column-layout p{
   text-align: left;
@@ -146,8 +146,8 @@ h2{
  } */
 
 a {
-  color: black; /* Set link color to black */
-  text-decoration: none; /* Remove underline */
+  color: black; 
+  text-decoration: none; 
 }
 .bt{
   display: flex;
